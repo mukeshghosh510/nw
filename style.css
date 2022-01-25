@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Licorice', cursive;
+  font-family: 'Rock 3D', cursive;
+  font-family: 'Vujahday Script', cursive;
+  font-family: 'Waterfall', cursive;
+}
+
+h1 {
+  color: green;
+  font-size: 592.2%;
+  width: 20%;
+  margin: 0 auto 0 auto;
+  font-family: 'Island Moments', cursive;
+  font-size: 70px;
+}
+
+h2 {
+  font-family: 'Licorice', cursive;
+  font-family: 'Rock 3D', cursive;
+  font-family: 'Vujahday Script', cursive;
+}
+
+h3 {
+  font-size: 2.42rem;
+}
+
+div {
+  background-color: #71DFE7;
+}
+
+.container {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-color: grey;
+}
+
+.red {
+  height: 100px;
+  width: 900px;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  left: 200px;
+}
+
+.blue {
+  height: 100px;
+  width: 800px;
+  background-color: blue;
+  position: absolute;
+  top: 0;
+  left: 100px;
+}
+
+.yellow {
+  height: 100px;
+  width: 100%;
+  background-color: #2FDD92;
+  top: 0;
+  position: fixed;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
